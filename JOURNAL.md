@@ -12,3 +12,13 @@ Also added a buck boost module as a regulator to provide a stable voltage for th
 <img width="1006" height="690" alt="image" src="https://github.com/user-attachments/assets/586dfd7a-fb0b-4e05-9878-4d70f7fadb31" />
 
 **Total time spent: 7h**
+
+
+# Aug 10th: Organized schmatic, looking for parts
+
+Looking through jlc parts library for BJT and USB PD source controller.
+Also brainstorming how to configure BJT logic for anti-short warning and prevention
+
+<img width="1350" height="970" alt="image" src="https://github.com/user-attachments/assets/d0cfa377-93e8-4c52-a572-ac861022aa31" />
+
+**Total time spent: 4h**
