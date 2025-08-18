@@ -25,3 +25,12 @@ Also brainstorming how to configure BJT logic for anti-short warning and prevent
 <img width="1350" height="970" alt="image" src="https://github.com/user-attachments/assets/d0cfa377-93e8-4c52-a572-ac861022aa31" />
 
 **Total time spent: 4h**
+
+
+# Aug 17-18th: DESIGN DESIGN DESIGN
+
+Decided to split boards between bjt logic and interface. Working on interface. Did a LOT of design and part selection (yes I more or less did this in one sitting and no I wasn't being lazy about previous work, this is my first time working on it in a while). I've added LED indicators, reduced some part counts by using one big resistor instead of a few small ones, changed out connectors I decided to use, and added USB connectors for USBPD out. I think that covers most of it. ALthough this log might be a lil off, given that I'm writing this at 2:01 AM local time.
+
+<img width="951" height="674" alt="image" src="https://github.com/user-attachments/assets/ec4f17c8-6247-4415-8114-381723e6bfc0" />
+
+**Total time spent: 13h**
