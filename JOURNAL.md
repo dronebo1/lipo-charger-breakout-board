@@ -34,3 +34,11 @@ Decided to split boards between bjt logic and interface. Working on interface. D
 <img width="951" height="674" alt="image" src="https://github.com/user-attachments/assets/ec4f17c8-6247-4415-8114-381723e6bfc0" />
 
 **Total time spent: 13h**
+
+# Aug 19-20: Finishing up!!!
+
+Finally finished configuring the control scheme for the input on the USBPD chip so that it can operate both within the spec inside the normal PD chip range, but also has another buck converter that it will switch the input to on its own when the input voltage exceeds the range of the PD chip, allowing it to work efficentially under both conditions
+
+<img width="1355" height="961" alt="image" src="https://github.com/user-attachments/assets/f366fb5c-d2be-46e0-af86-703167527408" />
+
+**Total time spent: 7h**
