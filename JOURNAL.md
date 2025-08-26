@@ -42,3 +42,12 @@ Finally finished configuring the control scheme for the input on the USBPD chip 
 <img width="1355" height="961" alt="image" src="https://github.com/user-attachments/assets/f366fb5c-d2be-46e0-af86-703167527408" />
 
 **Total time spent: 7h**
+
+# Aug 20-25: Major updates
+
+Redid schematic to split the design into multiple boards to optimize space and keep the board reasonably small, started laying out the PCB, gonna start routing soon.
+
+<img width="394" height="643" alt="image" src="https://github.com/user-attachments/assets/a73d5c51-d5b1-4d4f-bda3-72be4ffa8fc6" />
+
+**Total time spent: 6h**
+
