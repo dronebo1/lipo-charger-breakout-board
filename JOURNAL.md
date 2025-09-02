@@ -35,7 +35,7 @@ Decided to split boards between bjt logic and interface. Working on interface. D
 
 **Total time spent: 13h**
 
-# Aug 19-20: Finishing up!!!
+# Aug 19-20: Finishing up (Schematic) !!!
 
 Finally finished configuring the control scheme for the input on the USBPD chip so that it can operate both within the spec inside the normal PD chip range, but also has another buck converter that it will switch the input to on its own when the input voltage exceeds the range of the PD chip, allowing it to work efficentially under both conditions
 
@@ -51,3 +51,14 @@ Redid schematic to split the design into multiple boards to optimize space and k
 
 **Total time spent: 6h**
 
+# Sept 2: Grounded got an extension I have been saved :O
+
+So I thought the Grounded event from hackclub was gonna end on Aug 31 so there was a lot of panic and cram but turns out it was extended. I've routed the primary board and began laying out components on the power regulation boards while I also try to figure out the logic for the safety functions through some BJTs. Also trying to find space on the back of the board to solder on the additional boards. I've also decided to make the primary board a 6 layer board with 0.5 oz inner copper weight instead of a 4 layer board with 1 oz inner copper weight as it is cheaper, and I just duplicated the inner layers.
+
+<img width="400" height="692" alt="image" src="https://github.com/user-attachments/assets/f4b6134d-629e-43ac-8fd8-0359b8481f95" />
+<img width="720" height="744" alt="image" src="https://github.com/user-attachments/assets/a820af21-711d-4488-b3bb-35aec738389b" />
+<img width="687" height="732" alt="image" src="https://github.com/user-attachments/assets/ed0db22e-6c42-4f24-ace1-d1fb47846d87" />
+<img width="1441" height="989" alt="image" src="https://github.com/user-attachments/assets/6fb2f614-b66b-49dd-831c-b114f2d9c611" />
+
+
+**Total time spent: 17h**
