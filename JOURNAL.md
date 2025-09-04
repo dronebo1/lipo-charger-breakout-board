@@ -60,5 +60,12 @@ So I thought the Grounded event from hackclub was gonna end on Aug 31 so there w
 <img width="687" height="732" alt="image" src="https://github.com/user-attachments/assets/ed0db22e-6c42-4f24-ace1-d1fb47846d87" />
 <img width="1441" height="989" alt="image" src="https://github.com/user-attachments/assets/6fb2f614-b66b-49dd-831c-b114f2d9c611" />
 
-
 **Total time spent: 17h**
+
+# Sept 3-4: Working out the protection logic board
+
+Now working on the board (that solders onto the main board) that uses BJT logic to do things like low voltage protection, ensuring battery cells are connected properly, and checking that no more then one cell is connected to VCC (only the highest cell should be connected to the VCC line)
+
+<img width="1369" height="976" alt="image" src="https://github.com/user-attachments/assets/096e8728-f33d-4403-a1e4-5038b66dae85" />
+
+**Total time spent: 6h**
