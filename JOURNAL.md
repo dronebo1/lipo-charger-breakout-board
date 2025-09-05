@@ -69,3 +69,12 @@ Now working on the board (that solders onto the main board) that uses BJT logic 
 <img width="1369" height="976" alt="image" src="https://github.com/user-attachments/assets/096e8728-f33d-4403-a1e4-5038b66dae85" />
 
 **Total time spent: 6h**
+
+# Sept 4-5: Finished protection logic board schematic
+
+Schematic is done! See below for pics:
+
+<img width="1472" height="1033" alt="image" src="https://github.com/user-attachments/assets/25413f32-0bbf-41a8-92d2-30b3da3cd718" />
+<img width="1464" height="1024" alt="image" src="https://github.com/user-attachments/assets/5d706233-11c3-4a3a-86fe-fe008dbce386" />
+
+**Total time spent: 7h**
