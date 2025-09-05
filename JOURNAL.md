@@ -78,3 +78,12 @@ Schematic is done! See below for pics:
 <img width="1464" height="1024" alt="image" src="https://github.com/user-attachments/assets/5d706233-11c3-4a3a-86fe-fe008dbce386" />
 
 **Total time spent: 4.5h**
+
+# Sept 5: Nevermind, the schematic isn't done
+
+I decided to change a few things. Namely: Switching the MMBT4401 BJT model to one that has no loading fee with JLC to save $3. I also increased some of the resistor values to reduce the logic power draw/power going to waste. I also swaped out the MMBT4403 BJTs for ones that were promotional extended as well, saving another $3. 
+
+<img width="987" height="721" alt="image" src="https://github.com/user-attachments/assets/e8c705fb-07f0-4eeb-9f67-2b9ad25fefb5" />
+<img width="992" height="719" alt="image" src="https://github.com/user-attachments/assets/b93f2d5f-3fd0-49b3-be6e-5684d20cc660" />
+
+**Total time spent: 1.5h**
