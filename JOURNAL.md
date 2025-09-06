@@ -87,3 +87,11 @@ I decided to change a few things. Namely: Switching the MMBT4401 BJT model to on
 <img width="992" height="719" alt="image" src="https://github.com/user-attachments/assets/b93f2d5f-3fd0-49b3-be6e-5684d20cc660" />
 
 **Total time spent: 1.5h**
+
+# Sept 5-6: (Layout) I told myself I would finish it up quickly. I did not.
+
+So I decided that I hate my mental health and decided at 12:30 AM that I would grind this out until the layout was **entirely** finished, but little would I know I would still be working on it past 2:00 AM. Anyhow, the layout is now done for the protection logic board.
+
+<img width="520" height="831" alt="image" src="https://github.com/user-attachments/assets/74d99a5e-ae73-45a8-8da3-814e1940b37d" />
+
+**Total time spent: 5h**
