@@ -95,3 +95,13 @@ So I decided that I hate my mental health and decided at 12:30 AM that I would g
 <img width="520" height="831" alt="image" src="https://github.com/user-attachments/assets/74d99a5e-ae73-45a8-8da3-814e1940b37d" />
 
 **Total time spent: 5h**
+
+# Sept 7: A lot of routing
+
+Got through routing the other three boards, although I'm most behind on the logic board, for olvious reasons.
+
+<img width="508" height="815" alt="image" src="https://github.com/user-attachments/assets/40c4e92b-ffe7-4817-ab66-79d45a46e938" />
+<img width="574" height="829" alt="image" src="https://github.com/user-attachments/assets/8d7923e8-f6be-411a-b459-ae23d4987ab5" />
+<img width="584" height="818" alt="image" src="https://github.com/user-attachments/assets/b1b2c17f-8849-436d-b3e1-7acdd8a62260" />
+
+**Total time spent: 10.5h**
