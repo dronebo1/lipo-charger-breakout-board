@@ -105,3 +105,12 @@ Got through routing the other three boards, although I'm most behind on the logi
 <img width="584" height="818" alt="image" src="https://github.com/user-attachments/assets/b1b2c17f-8849-436d-b3e1-7acdd8a62260" />
 
 **Total time spent: 10.5h**
+
+# Sept 9: Finishing protection logic board routing
+
+The sept 20th deadline is creeping closer... so I'm trying to finish soon. Hopefully. So I grinded out all of the rest of the routing for the protection logic PCB, which was a little harder then I thought, as there was many intersecting ratlines.
+
+<img width="606" height="960" alt="image" src="https://github.com/user-attachments/assets/a098f247-ceb7-49d0-b806-01b9be70f558" />
+<img width="603" height="953" alt="image" src="https://github.com/user-attachments/assets/4f62667c-3842-4770-b4cf-801fc4efab45" />
+
+**Total time spent: 4h**
