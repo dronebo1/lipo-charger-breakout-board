@@ -126,4 +126,4 @@ Adding tooling holes to the main board and modifying outline to accommodate for 
 <img width="531" height="578" alt="image" src="https://github.com/user-attachments/assets/25fdf90a-0124-4131-ab36-4759a73943ef" />
 <img width="415" height="567" alt="image" src="https://github.com/user-attachments/assets/90701e71-5a5a-480f-931e-fdd0f75ef3bc" />
 
-**Total time spent:**
+**Total time spent: 3h**
