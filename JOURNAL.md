@@ -114,3 +114,16 @@ The sept 20th deadline is creeping closer... so I'm trying to finish soon. Hopef
 <img width="603" height="953" alt="image" src="https://github.com/user-attachments/assets/4f62667c-3842-4770-b4cf-801fc4efab45" />
 
 **Total time spent: 4h**
+
+# Sept 10: Finalizing
+
+Finishing things up:
+
+Adding pads to the back of the logic protection board 
+
+Adding tooling holes to the main board and modifying outline to accommodate for holes
+
+<img width="531" height="578" alt="image" src="https://github.com/user-attachments/assets/25fdf90a-0124-4131-ab36-4759a73943ef" />
+<img width="415" height="567" alt="image" src="https://github.com/user-attachments/assets/90701e71-5a5a-480f-931e-fdd0f75ef3bc" />
+
+**Total time spent:**
