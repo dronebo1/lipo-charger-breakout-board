@@ -127,3 +127,19 @@ Adding tooling holes to the main board and modifying outline to accommodate for 
 <img width="415" height="567" alt="image" src="https://github.com/user-attachments/assets/90701e71-5a5a-480f-931e-fdd0f75ef3bc" />
 
 **Total time spent: 3h**
+
+# Sept 11: Final stretch!
+
+Added pads to the back of the main board for wiring to other boards
+
+Added pads to other two power converter boards also for wiring
+
+Also added tooling holes for all boards, and finialized everything
+
+Also now trying to export everything and throw it into JLC so I can see how much it costs... scary...
+
+<img width="592" height="860" alt="image" src="https://github.com/user-attachments/assets/4e668926-f5d5-4285-b999-88bd10f9f4ae" />
+<img width="629" height="830" alt="image" src="https://github.com/user-attachments/assets/91cf6bde-0ee1-4f3c-8368-352dd2b0ae6c" />
+<img width="592" height="860" alt="image" src="https://github.com/user-attachments/assets/5d2aa0ff-959f-4a46-98b7-62d2645b3405" />
+
+**Total time spent: 5**
