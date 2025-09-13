@@ -143,3 +143,12 @@ Also now trying to export everything and throw it into JLC so I can see how much
 <img width="592" height="860" alt="image" src="https://github.com/user-attachments/assets/5d2aa0ff-959f-4a46-98b7-62d2645b3405" />
 
 **Total time spent: 5**
+
+# Sept 12: JLC doesn't have parts I need T-T
+
+I stupidly design the high side switch oof the USBPD module (to turn it on an off) with a pretty specific chip with new features, but it went out of stock by the time I actually finished everything, so I spent basically the entire day looking for alturnatives until I stupidly realized that I can just connect a P channel MOSFET driven low by a N channel MOSFET with a pullup resistor on the gate
+
+<img width="1286" height="909" alt="image" src="https://github.com/user-attachments/assets/87add065-f5b3-4353-96d4-5912582549ec" />
+
+**Total time spent: 7h**
+
