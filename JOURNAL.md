@@ -152,3 +152,18 @@ I stupidly design the high side switch oof the USBPD module (to turn it on an of
 
 **Total time spent: 7h**
 
+# Sept 14: Finishing up (for real this time)
+
+Finalizing the board, routing new design with schmatic changes, looking for any JLC extended parts that I can replace with basic parts to save money and adding some capacitors for filtering. Going through all the resistors and capacitors that I have and recalculating what possible options work with the ICs so that I can use basic ones takes a *ton* of time.
+
+<img width="575" height="821" alt="image" src="https://github.com/user-attachments/assets/3506d32e-5704-44ec-bcb1-3454678bb921" />
+
+BEC: ($71 before optimization :O )
+
+<img width="1756" height="897" alt="image" src="https://github.com/user-attachments/assets/8cdd33bf-eb20-4409-8faa-06d09a0f88a9" />
+
+USBPD chip: ($78 before optimization)
+
+<img width="1935" height="992" alt="image" src="https://github.com/user-attachments/assets/120b8630-ff29-426e-b566-058bcff9c6df" />
+
+**Total time spent: 10h**
