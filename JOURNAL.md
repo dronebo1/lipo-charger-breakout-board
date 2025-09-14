@@ -167,3 +167,7 @@ USBPD chip: ($78 before optimization)
 <img width="1935" height="992" alt="image" src="https://github.com/user-attachments/assets/120b8630-ff29-426e-b566-058bcff9c6df" />
 
 **Total time spent: 10h**
+
+Final costs:
+
+<img width="751" height="1003" alt="image" src="https://github.com/user-attachments/assets/539f0628-5e93-4d2a-b290-2f830f5fdc80" />
